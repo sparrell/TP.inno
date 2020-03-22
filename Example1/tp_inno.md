@@ -35,10 +35,13 @@ Editors notes:
   - References will need to be completed at the end of the development
     of this TP.
 
-<span id="_Toc14540984" class="anchor"></span>TP.inno - Description of
-the incubation mechanism and ways to improve it
+<span id="_Toc14540984" class="anchor"></span>
+<div align="center">
 
-Technical Paper
+**TP.inno - Description ofthe incubation mechanism and ways to improve it**
+
+**Technical Paper**
+</div>
 
 [TP.inno - Description of the incubation mechanism and ways to improve
 it 2](#_Toc14540984)
@@ -334,7 +337,7 @@ during SG17 meetings
 Figure 1 - General flow of the incubation mechanism in two parts
 allocation and management
 
-![](media/image2.png)
+![](./Figure1.png)
 
 We understand too that each part needs to be hosted by an entity
 
