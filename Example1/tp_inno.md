@@ -1134,7 +1134,7 @@ l)        Incorporate incubation* *mechanism* *as per \[TP.inno\]* *to ad
 
 The below text is a template text to be
 included in the incubation
-question report to document the status 
+question report to document the status
 and assessment of the incubation
 mechanism for consideration in the
 working party closing plenary and
