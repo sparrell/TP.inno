@@ -36,6 +36,7 @@ Editors notes:
 
 <span id="_Toc14540984" class="anchor"></span>
 <div align="center">
+
 **TP.inno - Description ofthe incubation mechanism and ways to improve it**
 
 **Technical Paper**
