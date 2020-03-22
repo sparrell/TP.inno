@@ -334,7 +334,7 @@ during SG17 meetings
 Figure 1 - General flow of the incubation mechanism in two parts
 allocation and management
 
-![](media/image2.png)
+![](./Figure1.png)
 
 We understand too that each part needs to be hosted by an entity
 
