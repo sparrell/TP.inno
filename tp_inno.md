@@ -1,62 +1,3 @@
-<table>
-<tbody>
-<tr class="odd">
-<td><img src="media/image1.gif" title="ITU logo" style="width:0.70833in;height:0.90625in" /></td>
-<td><p>INTERNATIONAL TELECOMMUNICATION UNION</p>
-<p><strong>TELECOMMUNICATION<br />
-STANDARDIZATION SECTOR</strong></p>
-<p>STUDY PERIOD 2017-2020</p></td>
-<td>SG17-TD2484</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td><strong><span class="smallcaps">STUDY GROUP 17</span></strong></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><strong>Original: English</strong></td>
-</tr>
-<tr class="even">
-<td><strong>Question(s):</strong></td>
-<td>4/17</td>
-<td>Geneva, 27 August- 5 September 2019</td>
-</tr>
-<tr class="odd">
-<td><strong>TD</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Source:</strong></td>
-<td>Rapporteur Q4/17</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><strong>Title:</strong></td>
-<td>1st revised baseline text for TP.inno: Description of the incubation mechanism and ways to improve it</td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Purpose:</strong></td>
-<td>Discussion</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><strong>Contact:</strong></td>
-<td><p>Jong-Hyun Kim</p>
-<p>Rapporteur Q4/17</p></td>
-<td><p>Tel: +82 42 860 3843</p>
-<p>Email: <a href="mailto:jhk@etri.re.kr">jhk@etri.re.kr</a></p></td>
-</tr>
-</tbody>
-</table>
-
-|               |                                                                                                                                                                                                                                         |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Keywords:** | Innovation; Incubation;                                                                                                                                                                                                                 |
-| **Abstract:** | This document contains the revision of the first baseline text proposal for TP.inno “Description of the incubation mechanism and ways to improve it” as an instrument for SG17 to allow innovation to be developed in a more agile way. |
 
 Editors notes:
 
@@ -197,8 +138,8 @@ it 2](#_Toc14540984)
 
 [Annex 3 – Proposed template elements for reporting 19](#_Toc14541022)
 
-1.  # Introduction 
-    
+1.  # Introduction
+
     1.  ## Context
 
 ITU-T Study Group 17 (SG17) scope being security, it covers a domain
@@ -281,31 +222,31 @@ which we find the
 
   - Strong arm race between attackers and defenders lead to a large
     range of innovations
-    
+
       - including a fundamental singularity moment approaching, called
         post-quantum
 
   - Digitalization mega-trend driving general innovation (AI, DLT, etc.)
     which fuelled both
-    
+
       - the attackers and the defenders weaponry but, too,
-    
+
       - created a huge inflation in the attack surface in many ways
 
   - Increased awareness of
-    
+
       - all the business constituencies of the importance of security
         and the need to invest
-    
+
       - policy makers and regulators across the globe towards security
-    
+
       - civil society to counterweight security with privacy centric
         concerns
-    
+
       - academia which matured a lot and open new frontiers for security
 
   - Shortage of skills, talents, resources and professionalisation
-    
+
       - Which accelerates the need for best practices and standards to
         simplify the jobs
 
@@ -337,7 +278,7 @@ to design it and implement it.
 This is the purpose of this document.
 
 2.  # The incubation mechanism
-    
+
     1.  ## General Description
 
 The incubation mechanism is a mechanism that allows any contribution for
@@ -405,18 +346,18 @@ We understand too that each part needs to be hosted by an entity
   - The management part needs to be attached to a question as this is
     mostly management of a work program and requires the skills of a
     rapporteurship
-    
+
     1.  ## Incubation mechanisms constituencies
-        
+
         1.  ### The incubation work item
 
 An incubation work item is a normal work item that is placed in the
 incubation queue. We remind here that work items can be of various
-types: 
+types:
 
   - Recommendation
 
-  - 
+  -
   - Technical Report
 
   - Technical Paper
@@ -527,38 +468,38 @@ incubated work items
 
   - The incubation queue is a normal work program and as such the
     incubated work items
-    
+
       - Are there if it was agreed normally by SG17 plenary meeting
-    
+
       - Are represented normally in the database of the work program
-    
+
       - Are being developed normally by contributions and by updating
         TDs
-    
+
       - Are determined or consented and then approved normally
-    
+
       - Or can be removed from the work program
 
   - In addition to a normal work program an incubated work item
-    
+
       - Can be reallocated to an existing (and/or new) question
 
   - It is recommended to review the incubation queue as
-    
+
       - Its counter of incubated work items is a good measurement of the
         fit of the Study Group structure to the reality of what
         standardisation requires:
-        
+
           - No incubated work items means that the Study Group Structure
             fits the requirements of standardisation in the limits of
             the ITU mandates, limits and constraints
-        
+
           - A few incubated work items shows that the Study Group
             Structure starts to degrade
-        
+
           - Many incubated work items shows that the Study Group
             Structure is not adapted
-    
+
       - An analysis of its content incubated work items are visible in
         the queue, they demonstrate that the Study Group “captured” a
         valuable set of work that may trigger the generation of a new
@@ -566,11 +507,11 @@ incubated work items
         case this decision will now be with a decreased risk because
         there is a good seizable view on the what needs to be considered
         for standardization
-    
+
     <!-- end list -->
-    
-    1.  ## Incubation mechanism part 1 – Incubation allocation 
-        
+
+    1.  ## Incubation mechanism part 1 – Incubation allocation
+
         1.  ### To which entity to attach the allocation part
 
 The incubation mechanism part 1 is the allocation part and is attached
@@ -604,9 +545,9 @@ During the meeting, the special session chairman
     be considered
 
   - Goes through the proposed list and for each candidate
-    
+
       - Discuss the reasons for why this item is in the candidate list
-    
+
       - Obtain either meeting agreement to send this candidate to
         incubation queue or to allocate it to a final agreed question
 
@@ -617,18 +558,18 @@ After the meeting, the special session chairman
   - Delivers immediately the table of NWI allocation to both the
     rapporteurs of the incubation question and the coordination question
     so that
-    
+
       - The incubation question can adapt its agenda
-    
+
       - The coordination question can prepare its coordination meeting
         with potential changes from TSB allocation documents to
         facilitate SG17 work
 
   - Delivers as soon as possible a report to make sure that any other
     question in need can make the changes in its agenda
-    
-    1.  ## Incubation mechanism part 2 – Incubation management 
-        
+
+    1.  ## Incubation mechanism part 2 – Incubation management
+
         1.  ### To which entity to attach the incubation management
 
 The incubation queue needs to be attached to a question as this is the
@@ -660,31 +601,31 @@ The incubation co-rapporteur does
   - A normal job as any other co-rapporteur managing a work program
 
   - In addition, the incubation co-rapporteur while
-    
+
       - participating in question meeting
-        
+
           - Informs the participant of any confirmed question being
             created, modified or deleted by SG17 and new SG17 structure
             updates relevant
-    
+
       - participating in the question report
-        
+
           - Informs SG17 about the current count of work items in the
             incubation queue and identifies the work items
-        
+
           - Identifies the incubated work items in a table in the report
-        
+
           - Obtain consensus for potential incubated work items to be
             allocated in their final question to be approved in SG17
             closing plenary
-        
+
           - Alerts SG17 if any of the below happens:
-            
+
               - The incubation queue is too big
-            
+
               - There is need for more resources or specific skills to
                 manage the queue on specific topics
-        
+
           - Analyses the incubation queue to seek if there are any
             suggestions for SG17 to consider potentially proposing a
             modification or the creation of a question
@@ -692,7 +633,7 @@ The incubation co-rapporteur does
   - Finally the incubation co-rapporteur is encouraged to participate to
     the relevant correspondence group about the short, mid and long term
     transformation of SG17
-    
+
     1.  ### To which question to attach the incubation queue
 
 The rationale for selecting the incubation question flows
@@ -719,9 +660,9 @@ below**
     distributed incubation queue mechanism vs a central queue mechanism
     but this would require to go with a very specific structure of SG17
     with a number of assumptions:
-    
+
       - Principle of stable long term Working Parties
-    
+
       - Principle of ‘mother’ question in each Working Party
 
 This would resolve some problems of work load but would make the
@@ -748,7 +689,7 @@ this stage
 We note that the future structure of SG17 may change this allocation
 
 3.  # Benefits and Risks of the incubation mechanism
-    
+
     1.  ## Benefits of the incubation mechanism
 
 The main benefit of this proposal is to
@@ -762,28 +703,28 @@ The main benefit of this proposal is to
   - Accept key innovation in SG17 in a much more agile manner
 
   - Therefore
-    
+
       - Give proper time to the relevant correspondence groups to
         conduct their job and make recommendations regarding the long
         term transformation of SG17 and the evolution of its structure
-    
+
       - Allow the work on the development of good validated new work
         items not be delayed and support legitimate requests from sector
         members
 
   - Furthermore
-    
+
       - Offer a good tool for SG17 to accelerate innovation probably
         quite significantly
-    
+
       - At the same time, be conservatist and cautious in terms of its
         future big bets and new structure
-    
+
       - Use this new tool to help communicate a good story to hire new
         members and participation
-    
+
     <!-- end list -->
-    
+
     1.  ## Risks of the incubation mechanism
 
 Like any proposal nothing comes with only advantages there are, and it
@@ -810,7 +751,7 @@ Mitigation Suggestions
 
   - R3 can be mitigated by SG17 members and by discussions. SG17 has a
     strong family spirit as a community
-    
+
     1.  ### Risk of not doing
 
 The risk of not doing means that there is no flexibility to allow the
@@ -829,17 +770,17 @@ allow evolution. It will delay by 6 months any decisions and won’t
 resolve anything. Chances are that it leads to actually a major crisis.
 
 4.  # Alternatives and gap analysis to introduce innovation
-    
+
     1.  ## About Innovation in Security
-    
+
     2.  ## Mechanisms within ITU
-        
+
         1.  ### Incubation mechanism vs Focus Groups
-        
+
         2.  ### Central or Distributed incubation queue?
-    
+
     3.  ## Gap analysis with other SDOs
-        
+
         1.  ### IETF
 
 5.  # Conclusions
