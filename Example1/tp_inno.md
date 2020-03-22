@@ -1,63 +1,3 @@
-<table>
-<tbody>
-<tr class="odd">
-<td><img src="media/image1.gif" title="ITU logo" style="width:0.70833in;height:0.90625in" /></td>
-<td><p>INTERNATIONAL TELECOMMUNICATION UNION</p>
-<p><strong>TELECOMMUNICATION<br />
-STANDARDIZATION SECTOR</strong></p>
-<p>STUDY PERIOD 2017-2020</p></td>
-<td>SG17-TD2484</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td><strong><span class="smallcaps">STUDY GROUP 17</span></strong></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><strong>Original: English</strong></td>
-</tr>
-<tr class="even">
-<td><strong>Question(s):</strong></td>
-<td>4/17</td>
-<td>Geneva, 27 August- 5 September 2019</td>
-</tr>
-<tr class="odd">
-<td><strong>TD</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Source:</strong></td>
-<td>Rapporteur Q4/17</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><strong>Title:</strong></td>
-<td>1st revised baseline text for TP.inno: Description of the incubation mechanism and ways to improve it</td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Purpose:</strong></td>
-<td>Discussion</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><strong>Contact:</strong></td>
-<td><p>Jong-Hyun Kim</p>
-<p>Rapporteur Q4/17</p></td>
-<td><p>Tel: +82 42 860 3843</p>
-<p>Email: <a href="mailto:jhk@etri.re.kr">jhk@etri.re.kr</a></p></td>
-</tr>
-</tbody>
-</table>
-
-|               |                                                                                                                                                                                                                                         |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Keywords:** | Innovation; Incubation;                                                                                                                                                                                                                 |
-| **Abstract:** | This document contains the revision of the first baseline text proposal for TP.inno “Description of the incubation mechanism and ways to improve it” as an instrument for SG17 to allow innovation to be developed in a more agile way. |
-
 Editors notes:
 
   - This contribution received positive comments from US
@@ -94,10 +34,13 @@ Editors notes:
   - References will need to be completed at the end of the development
     of this TP.
 
-<span id="_Toc14540984" class="anchor"></span>TP.inno - Description of
-the incubation mechanism and ways to improve it
+<span id="_Toc14540984" class="anchor"></span>
+<div align="center">
 
-Technical Paper
+**TP.inno - Description ofthe incubation mechanism and ways to improve it**
+
+**Technical Paper**
+</div>
 
 [TP.inno - Description of the incubation mechanism and ways to improve
 it 2](#_Toc14540984)
@@ -393,7 +336,7 @@ during SG17 meetings
 Figure 1 - General flow of the incubation mechanism in two parts
 allocation and management
 
-![](media/image2.png)
+![](./Figure1.png)
 
 We understand too that each part needs to be hosted by an entity
 
