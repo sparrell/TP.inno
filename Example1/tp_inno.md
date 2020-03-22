@@ -1,44 +1,44 @@
 
-Editors notes:
+\[Editor’s Note : Q4 question text needs to be aligned and refer to
+TP.inno as per Annex 2. Do we need to make the change at this SG17
+meeting and send an LS/o to TSAG? What is the final ‘name’ for TP.inno\]
 
-  - This contribution received positive comments from US
+Introduction
 
-  - US made the point that the incubation queue and management didn’t
-    come in Q1 because the experts where not there but US pointed that
-    the experts will go where the work will be done and so if the
-    incubation queue and management would come to Q1, experts will come
-    there. A new text proposes to fix this view which was what CG-XSS
-    expressed so far in 2.4.3
+The incubation mechanism pilot is now well advanced with important
+capabilities have been tested, e.g.:
 
-  - US made another point that 2.2.1 needs to take the opportunity to
-    make a few reminders given an apparent lack of knowledge on the
-    topic. A new text proposes to fix this
+  - In the last SG17 meeting work items were reallocated to their final
+    questions
 
-  - US made the point that today the incubation is not mentioned in Q4
-    new question text and asks this to be fixed as a continuation.
-    Editor noted that this matches with Proposition 4 of the incubation
-    allocation special session
+  - QRNG was consented and is a good proof point that as promised work
+    items can be developed in this mechanism normally
 
-  - Kenya asked clarification regarding centralised and distributed
-    incubation mechanisms that will be developed later. Editor explained
-    that this corresponded to the fact that in the structure of SG17 in
-    CG-XSS, Q6 rapporteur came with a very interesting concept and
-    structure in which Working Parties are very stable and there is the
-    concept of mother question. Editors hinted this answer in section
-    2.4.3 but will expose deeper in section 4.
+  - The Q4 report tested and included a section about the incubation
+    mechanism and so validated the template proposed in this TP
 
-  - Q1 coordination meeting showed a weakness in that Q1 was not
-    informed like Q4 immediately after the incubation allocation about
-    the changes of allocation of some NWI and therefore Q1 was
-    disaligned in the coordination meeting. Editors changed 2.3.2
+Yet we observed
 
-  - References will need to be completed at the end of the development
-    of this TP.
+  - Rapporteurs were not enough informed after the incubation allocation
+    and in particular Q1
 
-<span id="_Toc14540984" class="anchor"></span>TP.inno - Description of
-the incubation mechanism and ways to improve it
+  - We are just missing to appoint a Q4 co-rapporteur dedicated to this
+    mechanism
 
-Technical Paper
+    \[Editor’s Note : Q4 question text needs to be aligned and refer to
+    TP.inno as per Annex 2. Do we need to make the change at this SG17
+    meeting and send an LS/o to TSAG? What is the final ‘name’ for TP.inno\]
+
+\[Editor’s Note : The above was the Intro to the
+Contribution. This would proably go as text in issue instead of in text of document\]
+
+<span id="_Toc14540984" class="anchor"></span>
+<div align="center">
+
+**TP.inno - Description ofthe incubation mechanism and ways to improve it**
+
+**Technical Paper**
+</div>
 
 [TP.inno - Description of the incubation mechanism and ways to improve
 it 2](#_Toc14540984)
@@ -137,6 +137,8 @@ it 2](#_Toc14540984)
 [Annex 2 – Changes to the incubation question text 18](#_Toc14541021)
 
 [Annex 3 – Proposed template elements for reporting 19](#_Toc14541022)
+
+[Annex 4 – OASIS Process for Standards Tracks Document[()]
 
 1.  # Introduction
 
@@ -277,6 +279,12 @@ to design it and implement it.
 
 This is the purpose of this document.
 
+## Who is defining, developing and maintain this incubation mechanism?
+
+This mechanism is defined, developed and maintained by the study group
+itself under a correspondence group called the transformation of
+security studies.
+
 2.  # The incubation mechanism
 
     1.  ## General Description
@@ -334,7 +342,7 @@ during SG17 meetings
 Figure 1 - General flow of the incubation mechanism in two parts
 allocation and management
 
-![](media/image2.png)
+![](./Figure1.png)
 
 We understand too that each part needs to be hosted by an entity
 
@@ -355,16 +363,14 @@ An incubation work item is a normal work item that is placed in the
 incubation queue. We remind here that work items can be of various
 types:
 
-  - Recommendation
-
-  -
+  - Normative ITU-T documents such as Recommendations and Annexes as per \[b-ITU-T A.1\] and \[b-ITU-T A.12\]
+  - Non-normative ITU-T documents such as Technical Report and Technical Papers as per \[b-ITU-T A.13\]
   - Technical Report
-
   - Technical Paper
-
   - Etc.
 
 And there are various approval processes
+as per \[b-ITU-T WTSA-16 Resolution 1\]
 
   - Traditional Approval Process (TAP) (for recommendations)
 
@@ -510,9 +516,9 @@ incubated work items
 
     <!-- end list -->
 
-    1.  ## Incubation mechanism part 1 – Incubation allocation
+## Incubation mechanism part 1 – Incubation allocation
 
-        1.  ### To which entity to attach the allocation part
+### To which entity to attach the allocation part
 
 The incubation mechanism part 1 is the allocation part and is attached
 to SG17 directly as it needs to do arbitrations between questions
@@ -567,10 +573,11 @@ After the meeting, the special session chairman
 
   - Delivers as soon as possible a report to make sure that any other
     question in need can make the changes in its agenda
+  - Informs all the rapporteurs of the changes
 
-    1.  ## Incubation mechanism part 2 – Incubation management
+## 2.4 Incubation mechanism part 2 – Incubation management
 
-        1.  ### To which entity to attach the incubation management
+### 2.4.1 To which entity to attach the incubation management
 
 The incubation queue needs to be attached to a question as this is the
 only entity which is able to manage a work program.
@@ -634,11 +641,10 @@ The incubation co-rapporteur does
     the relevant correspondence group about the short, mid and long term
     transformation of SG17
 
-    1.  ### To which question to attach the incubation queue
+### 2.4.3 To which question to attach the incubation queue
 
 The rationale for selecting the incubation question flows
-**<span class="underline">in the current SG17 structure</span>**
-**<span class="underline">and distribution of experts</span> was as
+**<span class="underline">in the current SG17 structure and distribution of experts</span> was as
 below**
 
   - We cannot create new questions so we cannot create a “Question 0” as
@@ -769,69 +775,325 @@ order of magnitude much harder to establish trust in the process and to
 allow evolution. It will delay by 6 months any decisions and won’t
 resolve anything. Chances are that it leads to actually a major crisis.
 
-4.  # Alternatives and gap analysis to introduce innovation
+# 4. Alternatives and gap analysis to introduce innovation in standardization
 
-    1.  ## About Innovation in Security
+## 4.1 About Innovation in Security
+Innovation is a normal element
+of any technological evolution and the
+result of various forces.
+Yet in Security, those forces have the
+specific nature of an arms race between attackers and defenders in the
+context of a technological war between key actors.
 
-    2.  ## Mechanisms within ITU
+Standardization being one of the places
+where these forces materialises,
+it is therefore natural to observe
+a high cadence pressure for
+innovation in security in standardization.
 
-        1.  ### Incubation mechanism vs Focus Groups
+This will happen at various stages,
+in pre-standardization and then in
+standardization itself.
+Yet, each SDO having its own governance,
+it might be more or less easy to introduce
+an efficient approach to
+innovation in standardization and in particular in security.
 
-        2.  ### Central or Distributed incubation queue?
+Identifying other mechanisms and ways
+to approach innovation in security can
+- Position the incubation mechanism in a bigger spectrum of innovation approaches
+- Inform on how to maintain and/or develop the incubation mechanism
 
-    3.  ## Gap analysis with other SDOs
+### 4.2.1 Centralised vs Decentralised
 
-        1.  ### IETF
+Depending on the model of structure
+adopted by the study group,
+the incubation mechanism can be
+implemented ‘centrally’ meaning attached to
+one incubation question like implemented today
+or it could have been
+dispatched across a few questions.
+
+Indeed, should there be a study group with
+empowered working parties, we
+could have one ‘mother question’ per working party
+that could host an
+incubation queue for the working party.
+As such it would be a good way
+to distribute the emerging and innovation topics
+across the study groups
+to balance potential work load issues
+
+### 4.2.2 Emerging topics dedicated question
+
+Another alternative is for the study group to
+dedicate a full question
+solely to emerging topics which would be
+one specialisation of a
+centralisation approach.
+The incubation mechanism would still be useful
+especially because of its incubation allocation part 1
+as an important
+immediate first step after the opening plenary
+which allowed to agree
+all ambiguous cases and allow a smooth execution of all meetings so far.
+
+## 4.3 Other mechanisms dealing with innovation within IT and their relationship to incubation mechanism
+
+### 4.3.1 TSAG Hot Topic
+
+The rapporteur group for standardization strategies
+(RG-SS) under TSAG
+took the task to collect and aggregate proposed
+‘Hot Topics’ from any of
+ITU-T entities in addition to ITU-T CTO and CxO meetings.
+
+Whilst ‘Hot Topics’ don’t seem to be explicitely defined,
+some delegates
+interpreted the Hot Topics as topics
+in relation to innovation with the
+idea to make this list visible and shared
+in particular for study groups
+to have a chance to potentially coordinate and
+collaborate on joints
+topics.
+
+The incubation mechanism can be a source of
+information from the study
+group to TSAG to declare new ‘Hot Topics’,
+‘sub Hot Topics’ or enrich
+the qualification of existing ones
+and so could participate into
+informing any potential outgoing liaison statement
+from the study group
+to TSAG.
+
+### 4.3.2 Focus Groups
+
+Focus groups are defined by \[b-ITU-T A.7\] and provide a way to manage
+innovation for the objective of pre-standardization.
+
+In comparison, the incubation mechanism is a tactical and lightweight
+instrument for the study group to manage innovation that is ready for
+standardization as well as to develop analysis for potential future work
+through non-normative work items.
+
+## 4.4 Gap analysis with other SDOs
+
+The following table provide a high level view of the main approaches, if
+any, of other SDOs to innovation.
+
+Table 3 - High level view on how innovation is dealt with by different
+SDOs (non exhaustive)
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>SDO</strong></th>
+<th><strong>Mechanisms to deal with Innovation</strong></th>
+<th><strong>Acronym</strong></th>
+<th><strong>Status</strong></th>
+<th><strong>Comments</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ITU-T</td>
+<td>Focus Group at SG level</td>
+<td>FG</td>
+<td>In place</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>ITU-T</td>
+<td>Focus Group at TSAG level</td>
+<td>FG</td>
+<td>In place</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>ITU-T</td>
+<td>Incubation Mechanism</td>
+<td>None</td>
+<td>In pilot</td>
+<td>Considered by other SGs</td>
+</tr>
+<tr class="even">
+<td>ISO</td>
+<td>Advisory Group</td>
+<td>AG</td>
+<td>New</td>
+<td>Transformed from another concept</td>
+</tr>
+<tr class="odd">
+<td>ISO</td>
+<td>Preliminary Work Item</td>
+<td>PWI</td>
+<td>In place</td>
+<td><p>ISO/IEC JTC1/SC27 introduced a concept of “Preliminary Work Item” (PWI) as a replacement for “Study Period” (SP).</p>
+<p>PWI seem to be interpretable as an incubation mechanism in SC27 and this can also echo to SG17’s incubation mechanism</p></td>
+</tr>
+<tr class="even">
+<td>IETF</td>
+<td>Bar Bird of a Feature</td>
+<td>Bar BoF</td>
+<td>In place</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>IETF</td>
+<td>Bird of a Feature</td>
+<td>BoF</td>
+<td>In place</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>ETSI</td>
+<td>Industry Group</td>
+<td>ISG</td>
+<td>In place</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>OASIS</td>
+<td>None</td>
+<td>N/A</td>
+<td>In place</td>
+<td>OASIS has a very pragmatic way to accept any valuable suggestion, see Annex 4</td>
+</tr>
+</tbody>
+</table>
+
+\[Editor’s note: Editor will appreciate any contribution here and any
+more details on the above table in particular regarding
+
+| IEEE     | To be researched                                                   | N/A | To be researched |                                                |
+| -------- | ------------------------------------------------------------------ | --- | ---------------- | ---------------------------------------------- |
+| GSMA     | To be researched                                                   | N/A | To be researched | GSMA is probably a pre-standard SDO as a whole |
+| National | Any example of innovation in National Standardisation Organization | N/A | To be researched |                                                |
+
+\]
+
 
 5.  # Conclusions
 
-<span id="_Toc14541020" class="anchor"></span>Annex 1 - References
+\[Editor’s note:
+We should complete this section for the last meeting of
+the study period.
+However we could anticipate put the results from the
+pilot and its appreciation or not by the delegates
+with a recommendation
+for the next study period and then we can publish this TP\]
 
-\[TP.sgstruct\] Technical Paper – Strategic approaches to the
+<span id="_Toc14541020" class="anchor"></span>
+# Annex 1 - References
+
+
+\[b-ITU-T TP.sgstruct\] Technical Paper – Strategic approaches to the
 transformation of security studies
 
-Table 3 - List of TDs considered in this Technical Paper
+\[b-ITU-T A.1\] Working methods for study groups
+of the ITU Telecommunication Standardization Sector
+
+\[b-ITU-T A.7\] Focus groups: Establishment
+and working procedures
+
+\[b-ITU-T A.12\] Identification and layout of
+ITU-T Recommendations
+
+\[b-ITU-T A.13\] Non-normative ITU-T publications,
+including Supplements
+to ITU-T Recommendations
+
+\[b-ITU-T WTSA-16 Resolution 1\] Rules of procedure
+of the ITU
+Telecommunication Standardization Sector
+
+Table 4 - List of TDs considered in this Technical Paper
 
 | Ref                                                                                           | Title                                                                                                                       |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [TD1830](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1830)   | Proposal for Rapporteurs Feedback on Transformation of Security Studies                                                     |
-| [TD1829](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1829)   | Minutes of CG-xss conference call on 19<sup>th</sup> of December 2018                                                       |
-| [TD1828](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1828)   | Minutes of CG-xss conference call on 13<sup>th</sup> of December 2018                                                       |
-| [TD1827](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1827)   | Minutes of CG-xss Co-Convenor meeting on 28<sup>th</sup> of September 2018                                                  |
-| [TD1826](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1826)   | Minutes of CG-xss conference call on 20<sup>th</sup> of September 2018                                                      |
-| [TD1817](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1817)   | Report of Special session on Transformation of Security Studies                                                             |
-| [TD1816](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1816)   | Agenda of Special session on Transformation of Security Studies                                                             |
-| [TD1716R1](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1716) | Report of the Correspondence Group on Transformation of Security Studies (CG-XSS) for the September to December 2018 period |
-| [TD1623](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1623)   | LS/o on new Question on security aspects of interoperable safe quantum communications \[to TSAG\]                           |
-| [TD1622](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1622)   | LS/o on Revised Question 4/17, 5/17, 6/17 and 8/17 \[to TSAG\]                                                              |
-| [TD1617](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1617)   | LS/o/r on hot topics \[to TSAG\]                                                                                            |
-| [TD1566](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1566)   | Supporting slides to the third special session on transformation of security studies                                        |
-| [TD1544](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1544)   | Supporting slides to the first special session on transformation of security studies                                        |
-| [TD1542](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1542)   | Terms of Reference for the Correspondence Group on Transformation of Security Studies                                       |
-| [TD1540](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1540)   | Special Session on transformation of security studies feedback on TSAG incoming LS on Hot Topics TD1011                     |
-| [TD1433](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1433)   | Minutes of CG-xss conference call on 22 August 2018                                                                         |
-| [TD1432](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1432)   | Slides uses in CG-xss conference call on 22 August 2018                                                                     |
-| [TD1417](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1417)   | Minutes of CG-xss conference call on 13 August 2018                                                                         |
-| [TD1415](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1415)   | Minutes of CG-xss conference call on 10 July 2018                                                                           |
-| [TD1300](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1300)   | 2<sup>nd</sup> Activity Report of CG-xss for March to August 2018 period                                                    |
-| [TD1270](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1270)   | Proposed list of criteria to identify potential New Work Items for the Incubation Process                                   |
-| [TD1269](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1269)   | Minutes of CG-xss conference call on 20 June 2018                                                                           |
-| [TD1268](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1268)   | Report of special session on Transformation of Security Studies                                                             |
-| [TD1267R3](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1267) | Agenda of special session on Transformation of Security Studies                                                             |
-| [TD1144](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-1144)   | Comments to the 3<sup>rd</sup> session of CG-XSS                                                                            |
-| [TD1123](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-1123)   | Slide set used in 2<sup>nd</sup> special session of transformation of security study                                        |
-| [TD1121R2](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-1121) | Proposal for Q4/17 to host the incubation role and mechanism                                                                |
-| [TD1063](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-1063)   | Proposal for Q4/17 to host the incubation role and mechanism                                                                |
-| [TD895](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-0895)    | First Report from CG-XSS                                                                                                    |
-| [TD842](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-0842)    | Report of special session on Transformation of Security Studies                                                             |
-| [TD841R1](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-0841)  | Agenda of Special session on Transformation of Security Studies                                                             |
-| [TD782R1](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-170829-TD-PLEN-0782)  | Terms of Reference for the Correspondence Group on Transformation of Security Studies                                       |
-| [TD669R1](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-170829-TD-PLEN-0669)  | Cybersecurity of Next Big Things                                                                                            |
+| TD2745                                                                                        | Minutes of the CG-xss conference call on 12<sup>th</sup> of February 2020                                                        |
+| TD2740                                                                                        | Minutes of the CG-xss conference call on 5<sup>th</sup> of February 2020                                                         |
+| TD2737R2                                                                                      | Minutes of the CG-xss conference call on 22<sup>nd</sup> of January 2020                                                         |
+| TD2728                                                                                        | Minutes of the CG-xss conference call on 16<sup>th</sup> of January 2020                                                         |
+| TD2715                                                                                        | Minutes of the CG-xss conference call on 8<sup>th</sup> of January 2020                                                          |
+| TD2708                                                                                        | Minutes of the CG-xss conference call on 19<sup>th</sup> of November 2020                                                        |
+| TD2687R1                                                                                      | Minutes of the CG-xss conference call on 6<sup>th</sup> of November 2020                                                         |
+| TD2647R4                                                                                      | Minutes of the CG-xss co-convenors call on 24<sup>th</sup> of October 2019                                                       |
+| TD2606                                                                                        | Report of the Correspondence Group on Transformation of Security Studies (CG-XSS) for the September 2019 to February 2020 period |
+| TD2590                                                                                        | Report of the special session on incubation                                                                                      |
+| TD2589                                                                                        | Agenda of the special session on incubation                                                                                      |
+| TD2582                                                                                        | Report of of the special session on Transformation of Security Studies                                                           |
+| TD2581                                                                                        | Agenda of the special session on Transformation of Security Studies                                                              |
+| TD2545R1                                                                                      | 1<sup>st</sup> revised baseline text for TP.inno: Description of the incubation mechanism and ways to improve it                 |
+| TD2450                                                                                        | 1<sup>st</sup> Revised baseline text for TP.sgstruct: Strategic approaches to the transformation of security studies             |
+| TD2283R4                                                                                      | LS/o on Transformation of security studies methods \[to TSAG\]                                                                   |
+| TD2282R2                                                                                      | LS/o on Transformation of security studies rapporteur interviews \[to TSAG\]                                                     |
+| TD2280                                                                                        | Scoping considerations on potential LS outgoing drafts to TSAG                                                                   |
+| TD2278R1                                                                                      | Terms of Refernece for the Correspondence Group on Transformation of Security Studies                                            |
+| TD2277                                                                                        | Supporting slides for the special session on transformation of security studies                                                  |
+| TD2276                                                                                        | Supporting slides for the special session on incubation                                                                          |
+| TD2210                                                                                        | Minutes of the CG-xss conference call on 26<sup>th</sup> of July 2019                                                            |
+| TD2209                                                                                        | Minutes of the CG-xss conference call on 18<sup>th</sup> of July 2019                                                            |
+| TD2208                                                                                        | Minutes of the CG-xss conference call on 12<sup>th</sup> of July 2019                                                            |
+| TD2207                                                                                        | Minutes of the CG-xss conference call on 3<sup>rd</sup> of July 2019                                                             |
+| TD2206                                                                                        | Minutes of the CG-xss conference call on 28<sup>th</sup> of June 2019                                                            |
+| TD2205                                                                                        | Minutes of the CG-xss conference call on 20<sup>th</sup> of June 2019                                                            |
+| TD2204R1                                                                                      | Minutes of the CG-xss conference call on 13<sup>th</sup> of June 2019                                                            |
+| TD2203R4                                                                                      | CG-xss “Big Picture” Live Document                                                                                               |
+| TD2202                                                                                        | Minutes of the CG-xss conference call on 7<sup>th</sup> of June 2019                                                             |
+| TD2201                                                                                        | Minutes of the CG-xss conference clal on 29<sup>th</sup> of May 2019                                                             |
+| TD2200                                                                                        | Mintues of the CG-xss co-convenors conference call on 16<sup>th</sup> of April 2019                                              |
+| TD2096                                                                                        | Report of the Correspondence Group on Transformation of Security Studies                                                         |
+| TD2080                                                                                        | Report of special session on incubation                                                                                          |
+| TD2079                                                                                        | Agenda of special session on incubation                                                                                          |
+| TD2072                                                                                        | Report of special session on Transformation of security studies                                                                  |
+| TD2071                                                                                        | Agenda of special session on Transformation of security studies                                                                  |
+| TD2005                                                                                        | Terms of Reference for the Correspondence Group on Transformation of Security Studies                                            |
+| TD1868                                                                                        | Supporting slides for the special session on incubation                                                                          |
+| [TD1830](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1830)   | Proposal for Rapporteurs Feedback on Transformation of Security Studies                                                          |
+| [TD1829](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1829)   | Minutes of CG-xss conference call on 19<sup>th</sup> of December 2018                                                            |
+| [TD1828](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1828)   | Minutes of CG-xss conference call on 13<sup>th</sup> of December 2018                                                            |
+| [TD1827](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1827)   | Minutes of CG-xss Co-Convenor meeting on 28<sup>th</sup> of September 2018                                                       |
+| [TD1826](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1826)   | Minutes of CG-xss conference call on 20<sup>th</sup> of September 2018                                                           |
+| [TD1817](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1817)   | Report of Special session on Transformation of Security Studies                                                                  |
+| [TD1816](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1816)   | Agenda of Special session on Transformation of Security Studies                                                                  |
+| [TD1716R1](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-190122-TD-PLEN-1716) | Report of the Correspondence Group on Transformation of Security Studies (CG-XSS) for the September to December 2018 period      |
+| TD1696                                                                                        | Report of Special session on incubation                                                                                          |
+| TD1695                                                                                        | Agenda of Special session on incubation                                                                                          |
+| [TD1623](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1623)   | LS/o on new Question on security aspects of interoperable safe quantum communications \[to TSAG\]                                |
+| [TD1622](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1622)   | LS/o on Revised Question 4/17, 5/17, 6/17 and 8/17 \[to TSAG\]                                                                   |
+| [TD1617](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1617)   | LS/o/r on hot topics \[to TSAG\]                                                                                                 |
+| [TD1566](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1566)   | Supporting slides to the third special session on transformation of security studies                                             |
+| [TD1544](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1544)   | Supporting slides to the first special session on transformation of security studies                                             |
+| [TD1542](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1542)   | Terms of Reference for the Correspondence Group on Transformation of Security Studies                                            |
+| [TD1540](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1540)   | Special Session on transformation of security studies feedback on TSAG incoming LS on Hot Topics TD1011                          |
+| [TD1433](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1433)   | Minutes of CG-xss conference call on 22 August 2018                                                                              |
+| [TD1432](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1432)   | Slides uses in CG-xss conference call on 22 August 2018                                                                          |
+| [TD1417](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1417)   | Minutes of CG-xss conference call on 13 August 2018                                                                              |
+| [TD1415](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1415)   | Minutes of CG-xss conference call on 10 July 2018                                                                                |
+| [TD1300](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1300)   | 2<sup>nd</sup> Activity Report of CG-xss for March to August 2018 period                                                         |
+| [TD1270](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1270)   | Proposed list of criteria to identify potential New Work Items for the Incubation Process                                        |
+| [TD1269](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1269)   | Minutes of CG-xss conference call on 20 June 2018                                                                                |
+| [TD1268](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1268)   | Report of special session on Transformation of Security Studies                                                                  |
+| [TD1267R3](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180829-TD-PLEN-1267) | Agenda of special session on Transformation of Security Studies                                                                  |
+| [TD1144](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-1144)   | Comments to the 3<sup>rd</sup> session of CG-XSS                                                                                 |
+| [TD1123](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-1123)   | Slide set used in 2<sup>nd</sup> special session of transformation of security study                                             |
+| [TD1121R2](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-1121) | Proposal for Q4/17 to host the incubation role and mechanism                                                                     |
+| [TD1063](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-1063)   | Proposal for Q4/17 to host the incubation role and mechanism                                                                     |
+| [TD895](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-0895)    | First Report from CG-XSS                                                                                                         |
+| [TD842](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-0842)    | Report of special session on Transformation of Security Studies                                                                  |
+| [TD841R1](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-180320-TD-PLEN-0841)  | Agenda of Special session on Transformation of Security Studies                                                                  |
+| [TD782R1](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-170829-TD-PLEN-0782)  | Terms of Reference for the Correspondence Group on Transformation of Security Studies                                            |
+| [TD669R1](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-170829-TD-PLEN-0669)  | Cybersecurity of Next Big Things                                                                                                 |
 
-Table 4 - Lists of Contributions considered in this Technical Paper
+Table 5 - Lists of Contributions considered in this Technical Paper
 
 | Ref                                                                          | Title                                                                                                          | Source                                                        |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| C739                                                                         | Support for C596 “Technical Paper (TP.sgstruct): Strategic approaches to the transformation of security studies” | Agencia Nacional de Telecommuncacoes – ANATEL (Brazil)        |
+| C732                                                                         | Views on CG-WTSA20prep & CG-XSS Request-for-Contributions                                                        | Unites States                                                 |
 | [C456](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-C-0456) | Contribution to transformation studies and CG-xss about New Security Horizons                                  | Symantec Corporation                                          |
 | [C437](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-C-0437) | Contributions to transformation studies and CG-xss about implications from the transformation of the ecosystem | Symantec Corporation                                          |
 | [C298](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-C-0298) | Support for a revised Question on CyberSecurity (Q4/17)                                                        | Russian Federation                                            |
@@ -841,8 +1103,8 @@ Table 4 - Lists of Contributions considered in this Technical Paper
 | [C194](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-C-0194) | Proposal for a revised Question on Countering spam by technical means(Q5/17)                                   | Korea (Rep. of)                                               |
 | [C193](https://www.itu.int/md/meetingdoc.asp?lang=en&parent=T17-SG17-C-0193) | Proposal for a revised Question on CyberSecurity (Q4/17)                                                       | Korea (Rep. of)                                               |
 
-<span id="_Toc14541021" class="anchor"></span>Annex 2 – Changes to the
-incubation question text
+<span id="_Toc14541021" class="anchor"></span>
+# Annex 2 – Changes to the incubation question text
 
 Currently the hosting question changed its text in the following way to
 represent the incubation management:
@@ -864,17 +1126,23 @@ applications?*
 **Tasks**
 
 *k)      Collaborate with all other Questions in ITU-T SG17 to
-coordinate incubation* *function.  
-l)        Incorporate incubation function to address the new emerging
-areas in ITU-T* *SG17.*
+coordinate incubation mechanism.  
+l)        Incorporate incubation* *mechanism* *as per \[TP.inno\]* *to address the new emerging areas in ITU-T* *SG17.*
 
-<span id="_Toc14541022" class="anchor"></span>Annex 3 – Proposed
-template elements for reporting
+<span id="_Toc14541022" class="anchor"></span>
+# Annex 3 – Proposed template elements for reporting of the incubation mechanism in the incubation question report
 
-This section proposes a template text to be included in Q4 report (the
-current incubation host question) to document the status and assessment
-of the Incubation Mechanism for consideration in the working party
-closing plenary and
+The below text is a template text to be
+included in the incubation
+question report to document the status 
+and assessment of the incubation
+mechanism for consideration in the
+working party closing plenary and
+then potentially in the study group closing plenary.
+
+This template assumes Q4/17 is the
+incubation question for sake of
+clarity
 
 **Q4 Incubation Mechanism Report**
 
@@ -930,6 +1198,13 @@ incubation queue here for example:*
     Rapporteur want to suggest a potential new question or other
     structure or coordination or anything relevant*
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+# Annex 4 – OASIS Process for Standards Tracks Document
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+OASIS has a very pragmatic and approach to innovation,
+by simply not differenciating it.
+The below diagram shows the OASIS Process for
+Standards Tracks Document
+and in particular “Create Working Draft” at
+the bottom of the diagram
+
+![](./oasis.png)

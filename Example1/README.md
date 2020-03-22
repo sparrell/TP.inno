@@ -94,3 +94,5 @@ It was converted to markdown using
 ```
 pandoc c.823.docx -f docx -t gfm -o c823.md
 ```
+
+Then the intial contribution header was stripped off.
