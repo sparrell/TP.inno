@@ -34,10 +34,12 @@ Editors notes:
   - References will need to be completed at the end of the development
     of this TP.
 
-<span id="_Toc14540984" class="anchor"></span>TP.inno - Description of
-the incubation mechanism and ways to improve it
+<span id="_Toc14540984" class="anchor"></span>
+<div align="center">
+**TP.inno - Description ofthe incubation mechanism and ways to improve it**
 
-Technical Paper
+**Technical Paper**
+</div>
 
 [TP.inno - Description of the incubation mechanism and ways to improve
 it 2](#_Toc14540984)
